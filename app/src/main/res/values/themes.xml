@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="Theme.Organizandotudoapp" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.Organizandotudoapp" parent="Theme.MaterialComponents.DayNight.NoActionBar" />
+    <style name="Theme.Splash" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">#FFE3D5</item>
+        <item name="android:windowSplashScreenBackground">#FFE3D5</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">#FFE3D5</item>
+    </style>
 </resources>

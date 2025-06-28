@@ -61,6 +61,7 @@ class MainActivity : ComponentActivity() {
             Toast.makeText(applicationContext, "Baixando arquivo...", Toast.LENGTH_LONG).show()
         })
 
+        webView.setBackgroundColor(0xFFFFE3D5.toInt())
         webView.loadUrl("https://organizandotudo.netlify.app")
         setContentView(webView)
     }
