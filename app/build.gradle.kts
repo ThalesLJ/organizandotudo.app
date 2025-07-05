@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.thaleslj.organizandotudo"
+    namespace = "com.ljsystems.organizandotudo"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.thaleslj.organizandotudo"
+        applicationId = "com.ljsystems.organizandotudo"
         minSdk = 29
         targetSdk = 35
         versionCode = 1

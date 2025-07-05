@@ -1,4 +1,4 @@
-package com.thaleslj.organizandotudo.ui.theme
+package com.ljsystems.organizandotudo.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

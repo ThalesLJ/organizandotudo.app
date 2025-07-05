@@ -1,4 +1,4 @@
-package com.thaleslj.organizandotudo
+package com.ljsystems.organizandotudo
 
 import org.junit.Test
 
