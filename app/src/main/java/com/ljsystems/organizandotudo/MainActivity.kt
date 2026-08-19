@@ -67,7 +67,7 @@ class MainActivity : ComponentActivity() {
         })
 
         webView.setBackgroundColor(0xFFFFE3D5.toInt())
-        webView.loadUrl("https://organizandotudo.netlify.app")
+        webView.loadUrl("https://organizandotudo.thaleslj.com")
         setContentView(webView)
 
         // Configuração da status bar conforme o modo do sistema
